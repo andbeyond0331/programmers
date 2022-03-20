@@ -1,7 +1,7 @@
 package level1.신고_결과_받기;
 
 //https://programmers.co.kr/learn/courses/30/lessons/92334
-// 2022-03-10 시작
+// 2022-03-09 시작
 
 import java.util.Vector;
 
